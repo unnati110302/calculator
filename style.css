@@ -10,7 +10,7 @@ body{
 
 .container{
     margin-top: 30vh;
-    max-width: 65%;
+    max-width: 65vh;
     background-color: rgb(255, 251, 0);
     padding: 60px 20px 20px 20px; 
 }
@@ -54,7 +54,9 @@ label{
     height: 20px;
 }
 button{
+    font-size: 0.8em;
     width: 55px;
+    padding: 3px;
     background-color: brown;
     border-radius: 3px;
     color: aliceblue;
